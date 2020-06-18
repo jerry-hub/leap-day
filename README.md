@@ -13,7 +13,7 @@ To use the Leap day theme:
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    theme: jekyll-theme-leap-day
+    theme: jerry-leap-day
     ```
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
